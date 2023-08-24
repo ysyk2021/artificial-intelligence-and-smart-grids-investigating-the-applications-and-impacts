@@ -1,5 +1,3 @@
-Chapter 4: Role of AI in Smart Grids
-====================================
 
 Artificial Intelligence (AI) has the potential to transform the power industry by enabling smart grid solutions that optimize energy usage, improve reliability, and reduce costs. In this chapter, we will explore the benefits and challenges of incorporating AI into smart grids.
 

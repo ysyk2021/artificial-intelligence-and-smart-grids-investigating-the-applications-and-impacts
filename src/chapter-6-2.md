@@ -1,5 +1,3 @@
-Sustainable Practices
-=========================================================================
 
 As the world continues to face a changing climate, the need for sustainable practices in power distribution is becoming increasingly important. Smart grids have the potential to play an important role in promoting sustainability and reducing the environmental impact of power systems. In this chapter, we will explore some of the sustainable practices that can be facilitated by smart grids and artificial intelligence (AI).
 

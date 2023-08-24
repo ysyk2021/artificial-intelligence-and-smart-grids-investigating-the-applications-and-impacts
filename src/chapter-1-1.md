@@ -1,5 +1,3 @@
-Overview of Artificial Intelligence and Smart Grids
-============================================================================
 
 The power grid is a critical infrastructure that delivers electricity to homes, businesses, and industries. However, the traditional power grid is becoming increasingly outdated, inefficient, and vulnerable to cyber-attacks and natural disasters. To address these challenges, researchers and engineers are exploring new ways to modernize the power grid using intelligent technologies such as Artificial Intelligence (AI).
 

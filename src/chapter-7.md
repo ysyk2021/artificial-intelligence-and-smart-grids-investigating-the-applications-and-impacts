@@ -1,5 +1,3 @@
-Chapter 7: Ethical and Legal Issues Related to AI in Smart Grids
-================================================================
 
 The integration of artificial intelligence (AI) in smart grids presents several ethical and legal challenges. As these technologies become increasingly widespread, it is essential to consider the potential risks and develop appropriate ethical and legal frameworks. In this chapter, we will explore the ethical and legal issues associated with the use of AI in smart grids.
 

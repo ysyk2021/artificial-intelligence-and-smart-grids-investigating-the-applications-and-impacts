@@ -1,5 +1,3 @@
-Chapter 6: Environmental Impact and Sustainability
-==================================================
 
 The power industry is a significant contributor to greenhouse gas emissions and climate change. However, the adoption of smart grid technologies and artificial intelligence (AI) solutions has the potential to reduce the environmental impact of energy generation and distribution. In this chapter, we will explore the role of AI in promoting environmental sustainability in the power industry.
 

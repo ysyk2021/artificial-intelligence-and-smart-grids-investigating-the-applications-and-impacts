@@ -1,5 +1,3 @@
-Legal Framework
-=================================================================================
 
 As smart grids become increasingly reliant on artificial intelligence (AI) technologies, it is important to consider the ethical and legal issues associated with their use. In this chapter, we will explore some of the key ethical and legal considerations related to AI in smart grids.
 

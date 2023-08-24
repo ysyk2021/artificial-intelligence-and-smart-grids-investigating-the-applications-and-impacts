@@ -1,5 +1,3 @@
-Ethical Considerations
-========================================================================================
 
 As artificial intelligence (AI) technologies become more prevalent in smart grids, there are growing ethical and legal concerns related to their use. In this chapter, we will explore some of the ethical considerations associated with the use of AI in smart grids.
 

@@ -1,5 +1,3 @@
-Benefits of AI in Smart Grids
-===================================================================
 
 In this chapter, we will explore the role of Artificial Intelligence (AI) in smart grids and the benefits it brings to power distribution systems. AI is a powerful tool in improving efficiency, reliability, and sustainability in smart grids.
 

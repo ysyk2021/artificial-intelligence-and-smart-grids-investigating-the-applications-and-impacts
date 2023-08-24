@@ -1,5 +1,3 @@
-Types of Artificial Intelligence
-===================================================================================================
 
 In this chapter, we will explore the background and fundamentals of Artificial Intelligence (AI) and the different types of AI that exist. AI refers to the simulation of human-like intelligence in machines, enabling them to perform tasks that typically require human intelligence.
 

@@ -1,5 +1,3 @@
-Machine Learning Techniques
-==============================================================================================
 
 In this chapter, we will provide an overview of the background and fundamentals of artificial intelligence (AI), focusing specifically on machine learning techniques that are commonly used in the development of smart grid technologies.
 

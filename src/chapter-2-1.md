@@ -1,5 +1,3 @@
-History of Artificial Intelligence
-=====================================================================================================
 
 In this chapter, we will explore the history and evolution of Artificial Intelligence (AI) from its early beginnings to its current state. AI has its roots in several fields, including computer science, mathematics, philosophy, and neuroscience.
 

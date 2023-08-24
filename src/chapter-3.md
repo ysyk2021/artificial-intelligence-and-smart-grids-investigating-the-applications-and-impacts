@@ -1,5 +1,3 @@
-Chapter 3: Smart Grid Landscape
-===============================
 
 Smart grids are transforming the power industry, enabling more efficient and sustainable energy distribution. Understanding the landscape of smart grids is essential to realizing their full potential. In this chapter, we will explore the global power generation and distribution trends and components of smart grids.
 

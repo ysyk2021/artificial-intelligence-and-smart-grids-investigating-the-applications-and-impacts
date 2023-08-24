@@ -1,5 +1,3 @@
-Components of Smart Grids
-==========================================================
 
 In this chapter, we will explore the components of smart grid technologies. Smart grids are modern power distribution systems that use advanced technologies such as sensors, communication networks, and automation to improve efficiency, reliability, and sustainability.
 

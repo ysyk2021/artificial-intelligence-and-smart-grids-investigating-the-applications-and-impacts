@@ -1,5 +1,3 @@
-Chapter 2: Background and Fundamentals of Artificial Intelligence
-=================================================================
 
 Artificial intelligence (AI) is a key technology driving the transformation of smart grids. Understanding the background and fundamentals of AI is essential to realizing its full potential in power distribution. In this chapter, we will explore the history of AI, types of AI, and machine learning techniques.
 
