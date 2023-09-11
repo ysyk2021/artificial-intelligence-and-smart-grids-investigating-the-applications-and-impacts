@@ -1,5 +1,4 @@
-Chapter X: History of Artificial Intelligence
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter of "Artificial Intelligence and Smart Grids: Investigating the Applications and Impacts of Intelligent Technologies in Power Distribution," we will delve into the rich history of artificial intelligence (AI). From its inception to the present day, this chapter will trace the milestones, key developments, and influential figures that have shaped the field of AI. By exploring the historical context, we can better understand the evolution of AI and its significance in the context of smart grid technologies.
 

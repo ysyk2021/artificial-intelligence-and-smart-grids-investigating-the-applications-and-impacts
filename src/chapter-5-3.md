@@ -1,5 +1,4 @@
-Chapter X: Renewable Energy Integration
-=======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter of "Artificial Intelligence and Smart Grids: Investigating the Applications and Impacts of Intelligent Technologies in Power Distribution," we will explore the challenges, opportunities, and applications of renewable energy integration in power distribution systems. The increasing adoption of renewable energy sources, such as solar and wind, presents both benefits and complexities for grid operators. Leveraging artificial intelligence (AI) techniques can play a crucial role in optimizing the integration of renewable energy into smart grids.
 

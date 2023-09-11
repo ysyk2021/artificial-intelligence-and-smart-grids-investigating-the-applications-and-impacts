@@ -1,5 +1,4 @@
-Chapter X: Global Power Generation and Distribution Trends
-==========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter of "Artificial Intelligence and Smart Grids: Investigating the Applications and Impacts of Intelligent Technologies in Power Distribution," we will explore the global trends in power generation and distribution. It provides insights into the evolving landscape of the energy sector, highlighting the impact of artificial intelligence (AI) and smart grid technologies on power generation, transmission, and distribution worldwide.
 

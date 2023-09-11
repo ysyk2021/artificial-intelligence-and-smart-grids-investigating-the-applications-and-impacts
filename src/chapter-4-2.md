@@ -1,5 +1,4 @@
-Chapter X: Challenges and Limitations of AI in Smart Grids
-==========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter of "Artificial Intelligence and Smart Grids: Investigating the Applications and Impacts of Intelligent Technologies in Power Distribution," we will explore the challenges and limitations associated with the deployment of artificial intelligence (AI) in smart grids. While AI brings numerous benefits to power distribution systems, it also presents certain challenges that need to be addressed. This chapter will examine the key challenges and limitations of AI in smart grids and discuss their implications for the widespread adoption of these technologies.
 

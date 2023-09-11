@@ -1,5 +1,4 @@
-Chapter X: Legal Framework
-==========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter of "Artificial Intelligence and Smart Grids: Investigating the Applications and Impacts of Intelligent Technologies in Power Distribution," we will explore the legal framework surrounding the use of artificial intelligence (AI) in smart grids. As AI technologies revolutionize power distribution systems, it is essential to address legal considerations to ensure compliance, protect privacy, and establish accountability.
 

@@ -1,5 +1,4 @@
-Chapter X: Components of Smart Grids
-====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter of "Artificial Intelligence and Smart Grids: Investigating the Applications and Impacts of Intelligent Technologies in Power Distribution," we will explore the components of smart grids. A smart grid is an intelligent and flexible power distribution system that integrates advanced technologies to improve grid efficiency, reliability, and sustainability.
 

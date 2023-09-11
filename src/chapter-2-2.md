@@ -1,5 +1,4 @@
-Chapter X: Types of Artificial Intelligence
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter of "Artificial Intelligence and Smart Grids: Investigating the Applications and Impacts of Intelligent Technologies in Power Distribution," we will explore the various types of artificial intelligence (AI). AI encompasses a broad range of techniques and approaches, each with its own strengths and applications. Understanding these different types will provide insights into their unique characteristics and how they can be leveraged in the context of smart grids.
 
